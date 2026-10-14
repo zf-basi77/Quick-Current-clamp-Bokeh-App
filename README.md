@@ -1,10 +1,5 @@
 # Quick-Current-clamp-Bokeh-App
-A repository containing a custom Bokeh-based browser-application that allows for the manual and rapid curation of current-clamp data. It contains the ability to save data, make brief/diagnostic figures, and has interactive peak-finding. 
 
-
-
-
-# Interactive Time-Series Annotation Tool
 
 A Python application for interactive annotation and peak detection in time-series data. Built with Bokeh, NumPy, pandas, and SciPy, the tool provides a graphical interface for reviewing signals, recording points of interest, and saving annotations for downstream analysis.
 
